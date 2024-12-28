@@ -36,16 +36,16 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Archivo"
+name = "Posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Sobre mí"
-url = "/about"
+name = "Etiquetas"
+url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "Etiquetas"
-url = "/tags"
+name = "Sobre mí"
+url = "/about"
 weight = 4

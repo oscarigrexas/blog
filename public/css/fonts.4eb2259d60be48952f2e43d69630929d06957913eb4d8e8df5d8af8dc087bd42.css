@@ -1,0 +1,8 @@
+/* iosevka */
+@font-face {
+    font-display: swap;
+    font-family: 'Iosevka';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://github.com/pvinis/iosevka-webfont/blob/master/7.0.2/ttf/iosevka-regular.ttf');
+}

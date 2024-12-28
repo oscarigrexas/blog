@@ -1,0 +1,51 @@
+baseURL = "https://some.url"
+languageCode = "en-us"
+title = "Mi blog"
+theme = "archie"
+# copyright = "© Athul"
+# Code Highlight
+pygmentsstyle = "dracula"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourDisqusShortname"
+
+[pagination]
+pagerSize = 3 # articles per page
+
+[params]
+mode = "toggle"                                            # color-mode → light,dark,toggle or auto
+useCDN = false                                             # don't use CDNs for fonts and icons, instead serve them locally.
+subtitle = "Ideas y pensamientos de panoli local amigable"
+mathjax = true                                             # enable MathJax support
+katex = true                                               # enable KaTeX support
+customcss = ["css/custom.css"]
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/oscarigrexas"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Archivo"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Sobre mí"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Etiquetas"
+url = "/tags"
+weight = 4

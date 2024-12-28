@@ -23,6 +23,9 @@ In my cupboard I store several bag of bean, to make soft and to bake on some day
 But on the Monday I find this girlfriend baked all the beans. I say "Why do you bake my beans", and she say something as "I bakes them good to save time, so I bakes them all now."
 I am astonished and full of dissmay. I say "I canfr not eat all the beans", she say she is froze many of the beans so as we can unfrozen the on a later day and eat some at a time. 
 
+That's some text with a footnote.[^1]
+
+
 > Biggus Dickus
 >  - Julius Caesar
 
@@ -31,3 +34,6 @@ I am astonished and full of dissmay. I say "I canfr not eat all the beans", she 
 def dumbest_possible_function_ever(a: int): -> str:
     return "number"
 ```
+
+
+[^1]: And that's the footnote.

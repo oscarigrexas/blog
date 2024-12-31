@@ -1,7 +1,12 @@
+/* .logo {
+    filter: invert(1);
+} */
+
 body {
     color: white;
     background-color: #202124;
 }
+
 
 ::-moz-selection {
     background: blue;

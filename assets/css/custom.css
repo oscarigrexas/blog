@@ -1,0 +1,59 @@
+.logo {
+    height: 3rem;
+    margin-bottom: -1em;
+    margin-right: -0.5em;
+    margin-left: -0.5em;
+    border-width: 0;
+}
+
+.site-title {
+    vertical-align: top;
+}
+
+:root {
+    --maincolor: orange;
+    --bordercl: rebeccapurple;
+    --callouctcolor: dodgerblue;
+    --hovercolor: orange;
+    --darkMaincolor: orange;
+}
+
+html {
+    color: #232333;
+    font-family: 'Iosevka', monospace;
+    font-size: 17px;
+    line-height: 1.6em;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+pre code {
+    background-color: transparent;
+    color: inherit;
+    font-size: small;
+    font-family: Iosevka, monospace;
+    padding: 0;
+}
+
+.callout p {
+    font-family: 'Iosevka', monospace;
+    margin: 0;
+}
+
+ul>li::before {
+    content: '· ';
+    font-weight: bold;
+}
+
+hr {
+    border-top: 0.15rem dotted var(--bordercl);
+}
+
+
+footer {
+    border-top: 0.15rem dotted var(--bordercl);
+}

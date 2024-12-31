@@ -1,6 +1,9 @@
 <header>
     <div class="main">
-        <a href='{{ relURL "" }}'>{{ .Site.Title }}</a>
+        {{ if eq .Site.Params.logo true -}}
+        <img src="/blog/images/logo.png" alt="logo" class="logo">
+        {{ end }}
+        <a class="site-title" href='{{ relURL "" }}'>{{ .Site.Title }}</a>
     </div>
     <nav>
         {{ range .Site.Menus.main }}

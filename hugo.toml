@@ -1,25 +1,26 @@
 baseURL = "https://oscarigrexas.github.io/blog/"
-languageCode = "en-us"
-title = "Mi blog"
+languageCode = "es-es"
+title = "Sota de todos los palos"
 theme = "archie"
 # copyright = "© Athul"
-# Code Highlight
 pygmentsstyle = "dracula"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourDisqusShortname"
+disqusShortname = ""
 
 [pagination]
-pagerSize = 3 # articles per page
+pagerSize = 3
 
 [params]
-mode = "toggle"                                            # color-mode → light,dark,toggle or auto
-useCDN = false                                             # don't use CDNs for fonts and icons, instead serve them locally.
-subtitle = "Ideas y pensamientos de panoli local amigable"
-mathjax = true                                             # enable MathJax support
-katex = true                                               # enable KaTeX support
-customcss = ["css/custom.css"]
+mode = "toggle"
+useCDN = false
+subtitle = "La tecnología, y la vida más allá de la tecnología."
+mathjax = true
+katex = true
+customcss = ["css/custom.css", "css/custom_fonts.css"]
+logo = true
+favicon = "favicon.ico"
 
 # Social Tags
 
@@ -27,6 +28,11 @@ customcss = ["css/custom.css"]
 name = "GitHub"
 icon = "github"
 url = "https://github.com/oscarigrexas"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/oscarigrexas"
 
 # Main menu Items
 

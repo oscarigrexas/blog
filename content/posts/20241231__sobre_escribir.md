@@ -38,7 +38,7 @@ Sin embargo, en un contexto en el que el receptor de dopamina colectivo está ca
 
 Y es que ahora que empezamos a dividir a mi segmento demográfico en "creadores de contenido" y "consumidores practicantes de doomscrolling" --en el marco, además, del scraping masivo en nombre de la IA generativa y el "slop" resultante--, siento que es más positivo que nunca el atreverse a ser genuino online y animarse a compartir algo con el mundo.
 
-Para mí, en este momento de mi vida, escribir es un ejercicio en la reconquista de mi capacidades de atención y de expresión. Quiero aportar algo que en el mejor de los casos sea interesante, elocuente y motivador, pero que en el peor siga siendo real. Quiero contribuir a un internet más humano, cercano y acogedor.
+Para mí, en este momento de mi vida, escribir es un ejercicio en la reconquista de mis capacidades de atención y de expresión. Quiero aportar algo que en el mejor de los casos sea interesante, elocuente y motivador, pero que en el peor siga siendo real. Quiero contribuir a un internet más humano, cercano y acogedor.
 
 Si alguno de mis posts puede llegar a una sola persona y hacerle pensar "Huuuuhhhh... un poco friki, un poco pesado, pero al menos se nota que lo ha escrito 'alguien'." se me caerá una lagrimita de satisfacción, y todo esto este asunto habrá valido la pena.
 
